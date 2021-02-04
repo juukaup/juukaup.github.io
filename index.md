@@ -4,7 +4,7 @@
 
 Hi, I'm Juuso.
 I am a computational physics student who is eager to become a data scientist and an expert in the field of machine learning.
-I am currently working on my master's thesis and will be graduating this spring. I have always had a curious and analytical
+I recently finished my master's thesis and will be graduating after evaluation. I have always had a curious and analytical
 mindset and I enjoy constantly learning new things.
 
 Before I found my passion in physics, mathematics and computer science, I worked for several years in jobs
